@@ -1,0 +1,90 @@
+                  Pitcher’s Batting                          #0                       Pitcher’s Batting                          #3                       Pitcher’s Batting                          #6
+                               Card                                                                Card                                                                Card
+     0/0/0                           0/0/0                               50/50/50                    50/50/50                                125/125/125             125/125/125
+        Rsp#0                     Lsp#0                                     Rsp#3                     Lsp#3                                     Rsp#6                     Lsp#6
+        0-10       !       0-10                                             0-10       !       0-10                                             0-10       !       0-10
+       11-67       E       11-67                                           11-67       E       11-67                                           11-67       E       11-67
+       68-82   ss  L  2b   68-82                                           68-82   ss  L  2b   68-82                                           68-82   ss  L  2b   68-82
+       83-97     PARK?     83-97                                           83-97     PARK?     83-97                                           83-97     PARK?     83-97
+              inf 1B  inf                                                 98-105  inf 1B  inf  98-105                                         98-119  inf 1B  inf  98-119
+              glf 1B  grf                                                106-125  glf 1B  grf  106-125                                       120-160  glf 1B  grf  120-160
+              gcf 1B  gcf                                                         gcf 1B  gcf                                                161-170  gcf 1B  gcf  161-170
+               ss HG- 2b                                                           ss HG- 2b                                                           ss HG- 2b
+               2b HG  ss                                                           2b HG  ss                                                           2b HG  ss
+               3b HG  1b                                                           3b HG  1b                                                           3b HG  1b
+              lcf 2B  rcf                                                         lcf 2B  rcf                                                         lcf 2B  rcf
+              lrf 1B  llf                                                126-147  lrf 1B  llf  126-147                                       171-212  lrf 1B  llf  171-212
+              lcf 1B  lcf                                                         lcf 1B  lcf                                                213-222  lcf 1B  lcf  213-222
+               3b RG  1b                                                 148-187   2b RG  ss   148-187                                       223-252   2b RG  ss   223-252
+               ss RG+ 2b                                                 188-249   ss RG+ 2b   188-249                                       253-299   ss RG+ 2b   253-299
+                  HR                                                                  HR                                                                  HR
+                  HB                                                                  HB                                                                  HB
+              cfw 3B  cfw                                                         cfw 3B  cfw                                                         cfw 3B  cfw
+                  BB                                                                  BB                                                                  BB
+      98-499      SO       98-499                                        250-499      SO       250-499                                       300-499      SO       300-499
+              lfl 2B  rfl                                                         lfl 2B  rfl                                                         lfl 2B  rfl
+              lfw 2B  rfw                                                         lfw 2B  rfw                                                         lfw 2B  rfw
+               lf HF  rf                                                           lf HF  rf                                                           lf HF  rf
+               cf HF  cf                                                           cf HF  cf                                                           cf HF  cf
+               ss  P  2b                                                           ss  P  2b                                                           ss  P  2b
+     2016 cardset, Internet Baseball League, http://www.ibl.org          2016 cardset, Internet Baseball League, http://www.ibl.org          2016 cardset, Internet Baseball League, http://www.ibl.org
+                  Pitcher’s Batting                          #1                       Pitcher’s Batting                          #4                       Pitcher’s Batting                          #7
+                               Card                                                                Card                                                                Card
+     0/0/0                           0/0/0                               75/75/75                    75/75/75                                150/150/150             150/150/150
+        Rsp#1                     Lsp#1                                     Rsp#4                     Lsp#4                                     Rsp#7                     Lsp#7
+        0-10       !       0-10                                             0-10       !       0-10                                             0-10       !       0-10
+       11-67       E       11-67                                           11-67       E       11-67                                           11-67       E       11-67
+       68-82   ss  L  2b   68-82                                           68-82   ss  L  2b   68-82                                           68-82   ss  L  2b   68-82
+       83-97     PARK?     83-97                                           83-97     PARK?     83-97                                           83-97     PARK?     83-97
+              inf 1B  inf                                                 98-109  inf 1B  inf  98-109                                         98-124  inf 1B  inf  98-124
+              glf 1B  grf                                                110-140  glf 1B  grf  110-140                                       125-170  glf 1B  grf  125-170
+              gcf 1B  gcf                                                         gcf 1B  gcf                                                171-185  gcf 1B  gcf  171-185
+               ss HG- 2b                                                           ss HG- 2b                                                           ss HG- 2b
+               2b HG  ss                                                           2b HG  ss                                                           2b HG  ss
+               3b HG  1b                                                           3b HG  1b                                                           3b HG  1b
+              lcf 2B  rcf                                                         lcf 2B  rcf                                                         lcf 2B  rcf
+              lrf 1B  llf                                                141-172  lrf 1B  llf  141-172                                       186-232  lrf 1B  llf  186-232
+              lcf 1B  lcf                                                         lcf 1B  lcf                                                233-247  lcf 1B  lcf  233-247
+      98-157   2b RG  ss   98-157                                        173-202   2b RG  ss   173-202                                       248-262   2b RG  ss   248-262
+     158-249   ss RG+ 2b   158-249                                       203-249   ss RG+ 2b   203-249                                       263-299   ss RG+ 2b   263-299
+                  HR                                                                  HR                                                                  HR
+                  HB                                                                  HB                                                                  HB
+              cfw 3B  cfw                                                         cfw 3B  cfw                                                         cfw 3B  cfw
+                  BB                                                                  BB                                                                  BB
+     250-499      SO       250-499                                       250-499      SO       250-499                                       300-499      SO       300-499
+              lfl 2B  rfl                                                         lfl 2B  rfl                                                         lfl 2B  rfl
+              lfw 2B  rfw                                                         lfw 2B  rfw                                                         lfw 2B  rfw
+               lf HF  rf                                                           lf HF  rf                                                           lf HF  rf
+               cf HF  cf                                                           cf HF  cf                                                           cf HF  cf
+               ss  P  2b                                                           ss  P  2b                                                           ss  P  2b
+     2016 cardset, Internet Baseball League, http://www.ibl.org          2016 cardset, Internet Baseball League, http://www.ibl.org          2016 cardset, Internet Baseball League, http://www.ibl.org
+                  Pitcher’s Batting                          #2                       Pitcher’s Batting                          #5                       Emergency Pitcher
+                               Card                                                                Card
+     25/25/25                    25/25/25                                100/100/100             100/100/100                                 190/350/335             190/350/335
+        Rsp#2                     Lsp#2                                     Rsp#5                     Lsp#5                                     vs LH                     vs RH      Fatigue
+        0-10       !       0-10                                             0-10       !       0-10                                          500-514     PARK?     500-514           Old:    Long/5
+       11-67       E       11-67                                           11-67       E       11-67                                         515-539    WP & PB    515-539           BF SP:      16
+       68-82   ss  L  2b   68-82                                           68-82   ss  L  2b   68-82                                         540-569      OFR      540-569           BF RP:       8
+       83-97     PARK?     83-97                                           83-97     PARK?     83-97                                         570-619      IFR      570-619
+      98-101  inf 1B  inf  98-101                                         98-114  inf 1B  inf  98-114                                        620-629      HB       620-629           Rest: (days)
+     102-111  glf 1B  grf  102-111                                       115-150  glf 1B  grf  115-150                                                 2b SG ss                          0  1  2  3
+              gcf 1B  gcf                                                151-155  gcf 1B  gcf  151-155                                                 cf HF cf                      BF  -/ 8/12/16
+               ss HG- 2b                                                           ss HG- 2b                                                          inf 1B inf
+               2b HG  ss                                                           2b HG  ss                                                 630-669  lcf 1B lcf   630-669           Def(E/R):  0/K
+               3b HG  1b                                                           3b HG  1b                                                           rf HF rf                      Hold:    Pr/+4
+              lcf 2B  rcf                                                         lcf 2B  rcf                                                          ss SG 2b                      WP:     Prone*
+     112-122  lrf 1B  llf  112-122                                       156-192  lrf 1B  llf  156-192                                                 lf HF lf                      Balk:    Prone
+              lcf 1B  lcf                                                193-197  lcf 1B  lcf  193-197                                                 1b SG 3b                      Pickoff:     0
+     123-172   2b RG  ss   123-172                                       198-227   2b RG  ss   198-227                                       670-709  gcf 1B gcf   670-709           Clutch: Normal
+     173-249   ss RG+ 2b   173-249                                       228-274   ss RG+ 2b   228-274                                       710-749  rcf 2B lcf   710-749
+                  HR                                                                  HR                                                     710-749               710-749
+                  HB                                                                  HB                                                     750-849      DF       750-849
+              cfw 3B  cfw                                                         cfw 3B  cfw                                                750-849               750-849
+                  BB                                                                  BB                                                                  SO
+     250-499      SO       250-499                                       275-499      SO       275-499
+              lfl 2B  rfl                                                         lfl 2B  rfl                                                850-999      BB       850-999
+              lfw 2B  rfw                                                         lfw 2B  rfw                                                850-999               850-999
+               lf HF  rf                                                           lf HF  rf                                                           2b HG ss
+               cf HF  cf                                                           cf HF  cf
+               ss  P  2b                                                           ss  P  2b
+     2016 cardset, Internet Baseball League, http://www.ibl.org          2016 cardset, Internet Baseball League, http://www.ibl.org          2016 cardset, Internet Baseball League, http://www.ibl.org

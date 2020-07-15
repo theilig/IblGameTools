@@ -1,0 +1,212 @@
+                       Chase Field                      ARI                            Fenway Park                       BOS                         Great American                      CIN
+                                                                                                                                                           Ballpark
+     Weather: Southwest/Roof                                          Weather: Northeast                                              Weather: Great Lakes
+     Surface:   Turf/Average                IFR Adj:    none          Surface:   Grass/Average               IFR Adj:   none          Surface:    Grass/Average               IFR Adj:   none
+     Foul Territory:     Average            OFR Adj:    none          Foul Territory:     Average            OFR Adj:   none          Foul Territory:      Average            OFR Adj:   none
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     crossno wind  00-99 00-99 00-99 00-99 00-99 00-99                no wind  28-86 28-86 28-86 28-86 28-86 28-86cross    00-27 00-27 00-27 00-27 00-27 00-27no wind  00-99 00-99 00-99 00-99 00-99 00-99cross
+     straight                                                         straight 87-99 87-99 87-99 87-99 87-99 87-99                    straight
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     crossno wind           10  12  14  16  13  11  10                no wind            9  11  14  16  14  12  11cross              6   9  12  15  16  15  14no wind            7   8  11  13  11  10   8cross
+     straight                                                         straight          10  12  16  18  16  14  13                    straight
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   9   9  10  25  10   9   9                  37  37  37  17   5   5   3Fence Height     LFL  LF  LC  CF  RC  RF RFL                  12  12  12   8   8   8   8Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-34 35-40 41-46 47-61 62-71 72-80 81-9900-24 25-57 58-89 90-96 97    98    99   1blcf 2blc  2brc  3b?   sg*   rg*   hf800-09 10-18 19-26 27-30 31-48 49-65 66-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects Roof is closed whenever outside weather is(see charts)Special Park Effects (see charts)                     Special Park Effects       (see charts)
+     hot, cold, or cloudy.
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                     SunTrust Park                      ATL                          Comiskey Park                       CHA                      Progressive Field                      CLE
+     Weather: Deep South                                              Weather: Great Lakes                                            Weather: Great Lakes
+     Surface:   Grass/Poor                  IFR Adj:    none          Surface:   Slow Grass/Average          IFR Adj:   none          Surface:    Grass/Average               IFR Adj:   none
+     Foul Territory:     Average            OFR Adj:    none          Foul Territory:     Average            OFR Adj:      +1         Foul Territory:      Small              OFR Adj:   none
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     cross    00-17 00-17 00-17 00-17 00-17 00-17no wind  18-79 18-79 18-79 18-79 18-79 18-79no wind  29-87 29-87 29-87 29-87 29-87 29-87cross    00-28 00-28 00-28 00-28 00-28 00-28no wind  00-91 00-91 00-91 00-91 00-91 00-91cross
+     straight 80-99 80-99 80-99 80-99 80-99 80-99                     straight 88-99 88-99 88-99 88-99 88-99 88-99                    straight 92-99 92-99 92-99 92-99 92-99 92-99
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     cross             13  14  15  14  12   8   4no wind           10  11  15  17  14  10   7no wind            8  11  13  16   8   6   3cross             11  13  15  14   6   4   1no wind            9  12  13  15  11  10   7cross
+     straight           8  10  13  15  12   9   6                     straight          10  13  15  18  10   7   4                    straight          10  13  14  16  13  12   8
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   6   8   8   8  16  16  16                   8   8   8   8   8   8   8Fence Height     LFL  LF  LC  CF  RC  RF RFL                  19  19  19   8   8   8   8Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-37 38-51 52-64 65-68 69-76 77-84 85-9900-09 10    11          12-33 34-55 56-991blcf 2blc  2brc  3b?   sg*   rg*   hf800-17 18-28 29-39 40-41 42-56 57-70 71-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)                          Special Park Effects      (see charts)                          Special Park Effects       (see charts)
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                    Oriole Park at                      BAL                          Wrigley Field                       CHN                            Coors Field                      COL
+                      Camden Yards
+     Weather: Eastern Seaboard                                        Weather: Great Lakes                                            Weather: Rocky Mountain
+     Surface:   Grass/Average               IFR Adj:    none          Surface:   Grass/Average               IFR Adj:   none          Surface:    Grass/Poor                  IFR Adj:      -1
+     Foul Territory:     Average            OFR Adj:    none          Foul Territory:     Small              OFR Adj:   none          Foul Territory:      Small              OFR Adj:      -2
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     cross    00-27 00-27 00-27 00-27 00-27 00-27no wind  28-85 28-85 28-85 28-85 28-85 28-85no wind  23-81 23-81 23-81 23-81 23-81 23-81cross    00-22 00-22 00-22 00-22 00-22 00-22no wind  00-69 00-69 00-69 00-69 00-69 00-69cross
+     straight 86-99 86-99 86-99 86-99 86-99 86-99                     straight 82-99 82-99 82-99 82-99 82-99 82-99                    straight 70-99 70-99 70-99 70-99 70-99 70-99
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     cross              2   6   9  12  13  12  11no wind            5   8  11  13  11   9   8no wind            8   9  12  19  15  13  12cross              5   7   9  16  17  16  15no wind            7   9  10  12  10   9   6cross
+     straight           6   9  13  15  13  11  10                     straight           7   8  10  17  13  12  10                    straight           8  10  12  14  12  10   7
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   7   7   7   7   7  25  25                  15  12  12  12  12  12  15Fence Height     LFL  LF  LC  CF  RC  RF RFL                  13   8   8   8  16  16  16Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-27 28-35 36-42 43-45 46-59 60-72 73-9900-35 36-43 44-50 51-61 62-71 72-80 81-991blcf 2blc  2brc  3b?   sg*   rg*   hf800-36 37-57 58-78 79-99                  1blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)                          Special Park Effects      (see charts)                          Special Park Effects       (see charts)
+                                                                                                                                      L results on batter card become 1b lcf^
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                     Comerica Park                      DET                        Angel Stadium of                      LAA                            Miller Park                      MIL
+                                                                                           Anaheim
+     Weather: Great Lakes                                             Weather: Southern California                                    Weather: Great Lakes/Roof
+     Surface:   Grass/Average               IFR Adj:    none          Surface:   Grass/Average               IFR Adj:   none          Surface:    Grass/Poor                  IFR Adj:   none
+     Foul Territory:     Large              OFR Adj:    none          Foul Territory:     Average            OFR Adj:   none          Foul Territory:      Average            OFR Adj:   none
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     cross    00-25 00-25 00-25 00-25 00-25 00-25no wind  26-84 26-84 26-84 26-84 26-84 26-84no wind  29-83 29-83 29-83 29-83 29-83 29-83cross    00-28 00-28 00-28 00-28 00-28 00-28no wind  00-64 00-64 00-64 00-64 00-64 00-64cross
+     straight 85-99 85-99 85-99 85-99 85-99 85-99                     straight 84-99 84-99 84-99 84-99 84-99 84-99                    straight 65-99 65-99 65-99 65-99 65-99 65-99
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     cross              4   8  11  14  15  13  12no wind            7  10  13  15  13  11   9no wind           10  11  13  16  12   8   6cross             13  14  15  14   9   6   3no wind            8  10  11  13  11  10   9cross
+     straight           8  11  15  17  15  13  11                     straight           8  10  11  14  10   7   5                    straight           9  11  13  15  13  11  10
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8   8   8  11  11  11                   8   8   8   8   8   8   8Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8   8   8   6   6   6Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-61 62-66 67-71 72-86 87-90 91-93 94-9900-12 13-15 16-18 19-20 21-40 41-60 61-991blcf 2blc  2brc  3b?   sg*   rg*   hf8      00-04 05-09 10-13 14-35 36-56 57-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)                          Special Park Effects      (see charts)                          Roof is closed whenever outside weather isSpecial Park Effects (see charts)
+                                                                                                                                      hot, cold, or cloudy.
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                  Minute Maid Park                      HOU                          Dodger Stadium                      LAN                           Target Field                      MIN
+     Weather: Southwest/Roof                                          Weather: Southern California                                    Weather: North
+     Surface:   Slow Grass/Average          IFR Adj:    none          Surface:   Slow Grass/Excellent        IFR Adj:   none          Surface:    Grass/Excellent             IFR Adj:   none
+     Foul Territory:     Average            OFR Adj:    none          Foul Territory:     Average            OFR Adj:   none          Foul Territory:      Average            OFR Adj:   none
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     crossno wind  00-69 00-69 00-69 00-69 00-69 00-69                no wind  00-66 00-66 00-66 00-66 00-66 00-66cross               no wind  00-80 00-80 00-80 00-80 00-80 00-80cross
+     straight 70-99 70-99 70-99 70-99 70-99 70-99                     straight 67-99 67-99 67-99 67-99 67-99 67-99                    straight 81-99 81-99 81-99 81-99 81-99 81-99
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     crossno wind            6   9  11  13  11  10   9                no wind            7   9  13  15  13   9   7cross               no wind            9  12  13  15  13  12  10cross
+     straight           7  10  13  15  13  11  10                     straight           6   8  11  13  11   8   6                    straight          10  13  14  17  15  14  11
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                  21  21  10   7   7   7   7                   4   8   8   8   8   8   4Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8   8   8  23  23  23Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-26             27-29 30-47 48-64 65-9900-23 24-31 32-39       40-54 55-69 70-991blcf 2blc  2brc  3b?   sg*   rg*   hf800-30 31-46 47-62 63-69 70-77 78-84 85-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects Roof is closed whenever outside weather is(see charts)Special Park Effects (see charts)                     Special Park Effects       (see charts)
+     hot, cold, or cloudy.
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                  Kauffman Stadium                        KC                          Marlins Park                       MIA                         Yankee Stadium                      NYA
+     Weather: Heartland                                               Weather: Florida/Roof                                           Weather: Eastern Seaboard
+     Surface:   Grass/Average               IFR Adj:    none          Surface:   Grass/Excellent             IFR Adj:   none          Surface:    Slow Grass/Average          IFR Adj:   none
+     Foul Territory:     Average            OFR Adj:    none          Foul Territory:     Average            OFR Adj:   none          Foul Territory:      Average            OFR Adj:      +1
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     crossno wind  00-70 00-70 00-70 00-70 00-70 00-70                no wind  00-99 00-99 00-99 00-99 00-99 00-99cross               no wind  25-84 25-84 25-84 25-84 25-84 25-84cross    00-24 00-24 00-24 00-24 00-24 00-24
+     straight 71-99 71-99 71-99 71-99 71-99 71-99                     straight                                                        straight 85-99 85-99 85-99 85-99 85-99 85-99
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     crossno wind           11  13  14  16  14  13  11                no wind           12  14  15  17  15  13  10cross               no wind            9  10  13  15  13   9   8cross             12  13  14  13  10   7   5
+     straight          12  14  16  18  16  14  12                     straight                                                        straight           7   9  11  13  11   8   7
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8   8   8   8   8   8                  11   7  11   9   9  11   9Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8   8   8   8   8   8Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-53 54-71 72-89 90-99                  00-37             38-49 50-62 63-74 75-991blcf 2blc  2brc  3b?   sg*   rg*   hf800-40             41    42-56 57-70 71-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)                          Roof is closed whenever outside weather isSpecial Park Effects (see charts)Special Park Effects (see charts)
+                                                                      hot, cold, or cloudy.
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                        Citi Field                      NYN                               PNC Park                       PIT                            Oracle Park                        SF
+     Weather: Eastern Seaboard                                        Weather: Northeast                                              Weather: Northern California
+     Surface:   Slow Grass/Excellent        IFR Adj:      +1          Surface:   Grass/Average               IFR Adj:   none          Surface:    Grass/Average               IFR Adj:   none
+     Foul Territory:     Large              OFR Adj:      +1          Foul Territory:     Average            OFR Adj:   none          Foul Territory:      Average            OFR Adj:   none
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     crossno wind  00-69 00-69 00-69 00-69 00-69 00-69                no wind  27-83 27-83 27-83 27-83 27-83 27-83cross    00-26 00-26 00-26 00-26 00-26 00-26no wind  32-86 32-86 32-86 32-86 32-86 32-86cross    00-31 00-31 00-31 00-31 00-31 00-31
+     straight 70-99 70-99 70-99 70-99 70-99 70-99                     straight 84-99 84-99 84-99 84-99 84-99 84-99                    straight 87-99 87-99 87-99 87-99 87-99 87-99
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     crossno wind            9  10  12  15  13  12  10                no wind           11  13  15  17  13  10   8cross             14  15  17  16  11   8   5no wind           10  13  16  19  16  14  13cross              7  11  14  17  18  17  16
+     straight          10  11  14  17  15  13  11                     straight          13  15  17  19  15  11   9                    straight          11  14  18  21  18  16  15
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8   8   8   8   8   8                   6   6   6  10  10  21  21Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8  11   8  25  25  25Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf8      00    01          02-26 27-50 51-9900-13 14-33 34-52 53-55 56-66 67-77 78-991blcf 2blc  2brc  3b?   sg*   rg*   hf800-41 42-43 44    45-55 56-66 67-77 78-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)                          Special Park Effects      (see charts)                          Special Park Effects       (see charts)
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                  Oakland Coliseum   OAK                                                  PETCO Park                        SD                          Busch Stadium                      STL
+     Weather: Northern California                                     Weather: Southern California                                    Weather: Heartland
+     Surface:   Grass/Average               IFR Adj:    none          Surface:   Grass/Average               IFR Adj:   none          Surface:    Grass/Average               IFR Adj:   none
+     Foul Territory:     Very Large         OFR Adj:    none          Foul Territory:     Average            OFR Adj:   none          Foul Territory:      Average            OFR Adj:   none
+     Wind       Apr   May   Jun   Jul   Aug   Sepcross    00-18 00-18 00-18 00-18 00-18 00-18cross    00-23 00-23 00-23 00-23 00-23 00-23Wind       Apr   May   Jun   Jul   Aug   Sepcross    00-30 00-30 00-30 00-30 00-30 00-30Wind       Apr   May   Jun   Jul   Aug   Sep
+     no wind  19-81 19-81 19-81 19-81 19-81 19-81straight 82-99 82-99 82-99 82-99 82-99 82-99straight 87-99 87-99 87-99 87-99 87-99 87-99no wind  24-86 24-86 24-86 24-86 24-86 24-86straight 85-99 85-99 85-99 85-99 85-99 85-99no wind  31-84 31-84 31-84 31-84 31-84 31-84
+     Distance         LFL  LF  LC  CF  RC  RF RFLcross              5   9  13  15  16  15  13cross              7   9  11  17  16  15  14Distance         LFL  LF  LC  CF  RC  RF RFLcross             14  15  16  15  12   8   5Distance         LFL  LF  LC  CF  RC  RF RFL
+     no wind            8  11  15  18  16  13  10straight           7  10  13  16  14  12   8straight          11  12  15  20  16  15  13no wind           10  11  13  18  14  13  11straight          13  15  16  19  16  11   9no wind           11  13  14  17  14  10   8
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8  15  15   8  15  15   8                   5   7   7   7   7   8   8Fence Height     LFL  LF  LC  CF  RC  RF RFL                   9   9   9   9   9   9   9Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-01 02-16 17-31 32-38 39-54 55-69 70-9900-08 09-11 12-13 14-17 18-38 39-58 59-991blcf 2blc  2brc  3b?   sg*   rg*   hf800-41 42          43-47 48-60 61-73 74-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)                          Special Park Effects      (see charts)                          Special Park Effects       (see charts)
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+                Citizens Bank Park                      PHI                          T-Mobile Park                       SEA                        Tropicana Field                        TB
+     Weather: Eastern Seaboard                                        Weather: Pacific Northwest/Roof                                 Weather: Dome
+     Surface:   Grass/Average               IFR Adj:    none          Surface:   Slow Grass/Average          IFR Adj:   none          Surface:    Turf/Average                IFR Adj:   none
+     Foul Territory:     Large              OFR Adj:    none          Foul Territory:     Average            OFR Adj:      +1         Foul Territory:      Average            OFR Adj:   none
+     Wind       Apr   May   Jun   Jul   Aug   Sep                     Wind       Apr   May   Jun   Jul   Aug   Sep                    Wind       Apr   May   Jun   Jul   Aug   Sep
+     crossno wind  00-68 00-68 00-68 00-68 00-68 00-68                no wind  23-88 23-88 23-88 23-88 23-88 23-88cross    00-22 00-22 00-22 00-22 00-22 00-22no wind  00-99 00-99 00-99 00-99 00-99 00-99cross
+     straight 69-99 69-99 69-99 69-99 69-99 69-99                     straight 89-99 89-99 89-99 89-99 89-99 89-99                    straight
+     Distance         LFL  LF  LC  CF  RC  RF RFL                     Distance         LFL  LF  LC  CF  RC  RF RFL                    Distance         LFL  LF  LC  CF  RC  RF RFL
+     crossno wind            6   8  10  12  10   9   8                no wind            7  10  13  17  13  12  11cross              4   8  11  15  16  15  14no wind           10  12  14  16  14  12  10cross
+     straight           7   9  12  14  12  10   9                     straight           8  11  15  19  15  14  13                    straight
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8  13   6  13  13  13                   8   8   8   8   8   8   8Fence Height     LFL  LF  LC  CF  RC  RF RFL                   9   9   9   9   9   9   9Fence Height     LFL  LF  LC  CF  RC  RF RFL
+     PARK?                                                            PARK?                                                           PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-22 23          24-28 29-46 47-64 65-9900-21 22-23 24    25-26 27-45 46-63 64-991blcf 2blc  2brc  3b?   sg*   rg*   hf800-11 12          13-21 22-41 42-60 61-991blcf 2blc  2brc  3b?   sg*   rg*   hf8
+     *fielder is 1b for Lp/Ro   2b for Lsp                            *fielder is 1b for Lp/Ro   2b for Lsp                           *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp                                        3b for Rp/Lo   ss for Rsp                                       3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)                          Roof is closed whenever outside weather isSpecial Park Effects (see charts)Special Park Effects (see charts)
+                                                                      hot, cold, or cloudy.
+     2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org       2020 cardset, Internet Baseball League, http://www.ibl.org
+               Rangers Ballpark in                      TEX
+                         Arlington
+     Weather: Southwest
+     Surface:   Grass/Poor                  IFR Adj:      -1
+     Foul Territory:     Average            OFR Adj:      -1
+     Wind       Apr   May   Jun   Jul   Aug   Sepcross    00-23 00-23 00-23 00-23 00-23 00-23
+     no wind  24-88 24-88 24-88 24-88 24-88 24-88straight 89-99 89-99 89-99 89-99 89-99 89-99
+     Distance         LFL  LF  LC  CF  RC  RF RFLcross             12  13  14  13  10   7   4
+     no wind            9  10  12  14  12   9   7straight          11  12  14  16  14  10   8
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                  14  14  14   8   8   8   8
+     PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-63 64-72 73-81 82-94 95-96 97    98-99
+     *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)
+     2020 cardset, Internet Baseball League, http://www.ibl.org
+                     Rogers Centre                      TOR
+                         (Skydome)
+     Weather: Northeast/Dome
+     Surface:   Turf/Average                IFR Adj:    none
+     Foul Territory:     Average            OFR Adj:    none
+     Wind       Apr   May   Jun   Jul   Aug   Sep
+     crossno wind  00-99 00-99 00-99 00-99 00-99 00-99
+     straight
+     Distance         LFL  LF  LC  CF  RC  RF RFL
+     crossno wind            8  10  11  13  11   9   7
+     straight
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                  10  10  10  10  10  10  10
+     PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf8      00-06 07-12 13-17 18-38 39-58 59-99
+     *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp
+     Special Park Effects Dome is closed (no wind) whenever outside(see charts)
+     weather is hot, cold, or cloudy.
+     2020 cardset, Internet Baseball League, http://www.ibl.org
+                    Nationals Park                      WAS
+     Weather: Eastern Seaboard
+     Surface:   Grass/Average               IFR Adj:    none
+     Foul Territory:     Average            OFR Adj:    none
+     Wind       Apr   May   Jun   Jul   Aug   Sep
+     crossno wind  00-99 00-99 00-99 00-99 00-99 00-99
+     straight
+     Distance         LFL  LF  LC  CF  RC  RF RFL
+     crossno wind            8  10  11  13  11   8   7
+     straight
+     Fence Height     LFL  LF  LC  CF  RC  RF RFL                   8   8   8  10  14   8   8
+     PARK?
+     1blcf 2blc  2brc  3b?   sg*   rg*   hf800-50 51-69 70-87 88-91 92-93 94-95 96-99
+     *fielder is 1b for Lp/Ro   2b for Lsp
+                 3b for Rp/Lo   ss for Rsp
+     Special Park Effects       (see charts)
+     2020 cardset, Internet Baseball League, http://www.ibl.org

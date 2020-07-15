@@ -1,0 +1,18 @@
+Dome
+TB
+Day:Hot:  
+Day:Warm: 
+Day:Cool: 00-99 00-99 00-99 00-99 00-99 00-99 00-99
+Day:Cold:     
+Night:Hot:   
+Night:Warm:  
+Night:Cool: 00-99 00-99 00-99 00-99 00-99 00-99 00-99
+Night:Cold: 
+Clear:        00-99 00-99 00-99 00-99 00-99 00-99 00-99
+PartlyCloudy: 
+Cloudy:       
+Thunderstorms: 
+Showers:       
+Snow:          
+Fog:           
+None:          00-99 00-99 00-99 00-99 00-99 00-99 00-99

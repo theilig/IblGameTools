@@ -1,0 +1,633 @@
+GREAT LAKES-NORTHEAST (BOS, CHA, CHN, CIN, CLE, DET, MIL, PIT, TOR)
+Day
+      00-03 00-11 00-22
+00-39 04-66 12-90 23-98 00-54
+55-91
+92-99
+Night
+00-04
+05-80
+81-99
+NORTH (MIN) 
+Day
+            00-04 00-09 00-06 00
+00-19 00-46 05-70 10-79 07-79 01-59 00-34
+20-59 47-86 71-99 80-99 80-99 60-89 35-74
+60-99 87-99                   90-99 75-99
+Night
+
+
+00-49
+50-99
+
+
+FLORIDA (MIA)
+Day
+00-32 00-32 00-32 00-29 00-09
+33-99 33-99 33-99 30-99 10-89
+                        90-99
+
+SOUTHWEST (ARI, HOU, TEX)
+Day
+00-03
+04-81
+82-99
+
+00-12 00-04 13-95 05-79 96-99 80-97
+Night Temp:
+April May June July Aug. Sept.
+Night Temp:
+June July
+Aug. Sept.
+Oct.
+Night Temp:
+April
+May June July Aug. Sept. Oct.
+Night Temp:
+April May June July
+Aug. Sept.
+00-29 11-74 31-89 41-96 36-93 20-81 30-99 75-99 90-99 97-99 94-99 82-99
+Sky:
+April May
+June July
+Aug. Sept.
+Oct.
+Hot Warm Cool Cold
+00 00-02 00-06
+00-04 00 05-51 01-34 52-99 35-95
+Clear
+Partly Cloudy Cloudy
+Thunderstorms 00-20 00-20 Showers 21-36 21-40 Fog 37-39 41-44 None 40-99 45-99
+Day Temp: April May June
+Sky: April
+May June July Aug. Sept. Oct.
+Sky:
+April May June July
+Aug. Sept.
+Oct.
+Precipitation: April May
+June July
+Aug. Sept.
+Oct.
+Precipitation: April
+May June July Aug. Sept. Oct.
+Hot Warm Cool Cold
+00-04 00-14 00-14 05-55 15-64 00-59 15-84 56-99 65-99
+00-09
+10-74 00-29 75-99 30-89
+Sky: April
+May June July Aug. Sept.
+Oct.
+Precipitation: April May June
+July
+00-01 02-99
+Aug. Sept.
+Oct.
+00-11 12-68 69-99
+00-09 00-11 00-16 00-19 00-17 00-16 10-70 12-78 17-81 20-83 18-76 17-74 71-99 79-99 82-99 84-99 77-99 75-99
+Sky:
+April May June July
+Aug. Sept.
+Oct.
+02-13 04-08 14-21
+00-01 00-01 00-01 00-01 00-01 00-01 02-28 02-31 02-18 02-28 02-35 02-57 29-33 32-34 19-21 29-31 36-40 58-72 34-99 35-99 22-99 32-99 41-99 73-99
+DayTemp:
+April May June July Aug. Sept.
+Oct.
+Hot Warm Cool
+00-03 04-71 72-99
+00-03 00-03 00-13 04-74 04-82 14-99 75-99 83-99
+00-13 00-13 14-99 14-99
+00-10 11-90 91-99
+Night Temp:
+April May June July Aug. Sept. Oct.
+Sky:
+April May June
+July
+Aug. Sept.
+Oct.
+(a) If number rolled is 00-19, game is rained out.
+(b) If number rolled is 20-99, game is held up by a rain delay, but the sky clears and the game is played as scheduled (wet field innings 1-4).
+Night Temp:
+April
+May June July
+Aug. Sept.
+Oct.
+Hot Warm Cool Cold
+00 00-07 00-16 00-11 00-04
+00-02 01-42 08-55 17-67 12-63 05-50 00-53 03-79 43-99 56-99 68-99 64-99 51-99 54-94 80-99 95-99
+April May June July Aug. Sept. Oct.
+Clear
+Partly Cloudy Cloudy
+00-33 00-30 00-23 34-60 31-67 24-67 61-99 68-99 68-99
+00-20 21-63 64-99
+00-23 00-33 24-70 34-63 71-99 64-99
+00-47 48-70 71-99
+Showers - Roll two dice...
+(a) If number rolled is 00-14, game is rained out.
+(b) If number rolled is 15-49, game is held up by a rain delay, but started in drizzle (wet field). Roll two dice after every half- inning. If number is 00-04, game is rained out.
+(c) If number rolled is 50-99, game is played (wet field).
+Hot Warm Cool
+00 01-36 37-99
+00 00 00-03 01-42 01-49 04-55 43-94 50-99 56-99
+00-03 00-05 04-57 06-54 58-99 55-99
+00-02 03-46 47-99
+Sky:
+Precipitation:
+April May June
+July
+Aug. Sept.
+Oct.
+Sky:
+April
+May June July
+Aug. Sept.
+Oct.
+00-23 00-27 00-27 00-30 00-33 00-40 00-43 24-50 28-57 28-60 31-70 34-70 41-67 44-70 51-99 58-99 61-99 71-99 71-99 68-99 71-99
+Clear
+Partly Cloudy Cloudy
+Precipitation: April
+Thunderstorms 00-03 Showers 04-13
+00 00 00 01-03 01-03 01 04-06 04-06 02-04 7-99 7-99 5-99
+00 00 01-03 01-03 04-06 04-06 7-99 7-99
+00 01-07 08-17 18-99
+28-32 33-99
+Fog None
+14-16 17-99
+2020 IBL Game
+Page 9
+revision 2020b
+40-77 67-97 91-99 99 78-99 98-99
+98-99
+Hot Warm Cool Cold
+00-02 00
+00-10 00-30 03-40 01-35 00-19
+Hot Warm Cool
+00-07 00-54 08-95 55-99 96-99
+00-24 00-14 25-96 15-79 97-99 80-99
+00-14 00-14 15-79 15-79 80-99 80-99
+00-04 05-74 75-99
+Hot Warm Cool Cold
+00 01-35 36-95 96-99
+00-02 00-22 00-31 00-30 00-16 00-02 03-52 23-65 32-73 31-71 17-60 03-47 53-99 66-99 74-99 72-99 61-99 48-99
+01-22 03-46 07-54 00-52 23-94 47-99 55-99
+Sky:
+April May June July Aug. Sept.
+Oct.
+00-39 00-29 40-74 30-64 75-99 65-99
+00-24 00-29 25-44 30-64 45-99 65-99
+00-39 00-39 40-74 40-74 75-99 75-99
+00-39 40-74 75-99
+Clear 00-27 Partly Cloudy 28-53 Cloudy 54-99
+00-27 00-37 00-50 00-50 00-43 00-47 28-63 38-77 51-83 51-83 44-73 48-70 64-99 78-99 84-99 84-99 74-99 71-99
+53-99 95-99
+96-99
+00-20 00-23 00-23 00-30 00-33 00-33 21-47 24-57 24-63 31-74 34-73 34-67 48-99 58-99 64-99 75-99 74-99 68-99
+00-33 34-63 64-99
+Clear
+Partly Cloudy Cloudy
+Thunderstorms 00-10 00-14 00-20 00-21 Showers 11-40 15-41 21-37 22-31 Snow 41-46
+Fog 47-54 42-46 38-42 32-36 None 55-99 47-99 43-99 37-99
+00-20 00-20 21-46 21-46 47-49 47-49 50-99 50-99
+00-20 00-15 21-36 16-36 37-39 37-39 40-99 40-99
+00-15 16-36 37-39 40-99
+Oct.
+00-63 64-99
+ROCKY MOUNTAIN (COL)
+Hot 00 Warm 01-50 Cool 51-88 Cold 89-99
+00-03 00-19 00-35 00-26 00-13 04-74 20-99 36-99 27-99 14-84 75-99 85-99
+Night Temp: April May June
+July
+Aug. Sept.
+Oct.
+DayTemp:
+April May June July
+Aug. Sept.
+Warm 00-21 00-29 00-35 Cool 22-91 30-93 36-95 Cold 92-99 94-99 96-99
+00-37 38-95 96-99
+00-38 00-38 39-95 39-95 96-99 96-99
+00-30 31-93 94-99
+Night Temp:
+May June July Aug. Sept. Oct.
+Hot Warm Cool Cold
+00-14 00-24 00-19 00-39 15-69 25-79 20-69 40-89 70-99 80-99
+00-14 00-04 15-79 5-36 80-99 37-99
+Night Temp: April
+May June July Aug. Sept.
+Sky: April May June
+July
+Aug. Sept.
+Oct.
+Warm Cool Cold
+00-08 00-31 00-37 00-35 00-31 00-04 09-86 32-95 38-95 36-95 32-93 05-79 87-99 96-99 96-99 96-99 94-99 80-99
+Night Temp:
+April May June July
+Aug. Sept.
+Sky:
+April
+May June July Aug. Sept. Oct.
+00-20 00-23 00-23 00-29 21-46 24-57 24-62 30-72 47-99 58-99 63-99 73-99
+00-33 00-33 34-72 34-67 73-99 68-99
+00-33 34-63 64-99
+Precipitation: April
+May June July Aug. Sept.
+Oct.
+Thunderstorms 00-20 Showers 21-27 Fog 28-31 None 32-99
+00-23 00-20 00-17 00-17 00-13 00-10 24-30 14-23 11-20 31 21 18 24 21-24 32-99 22-99 18-99 19-99 25-99 25-99
+Precipitation: April May June July
+Aug. Sept.
+Oct.
+00-13 00-20 00-20 00-17 00-10 14-40 21-37 21-30 18-30 11-30
+00-03 04-30 31-33 34-37 38-99
+00-01 02-57 58-91 92-99
+Oct.
+00-23 24-85 86-99
+70-99 90-99
+Hot
+Warm 00-05 Cool 06-78 Cold 79-99
+00 00-07 00-12 00-08 00-04 01-34 08-50 13-59 09-57 05-45 35-99 51-99 60-99 58-99 46-99
+Clear 00-37 00-43 00-50 Partly Cloudy 38-70 44-80 51-83 Cloudy 71-99 81-99 84-99
+00-57 58-93 94-99
+00-50 00-53 51-90 54-87 91-99 88-99
+00-47 48-77 78-99
+60-99 85-99
+90-99
+Clear 00-27 PartlyCloudy 28-57 Cloudy 58-99
+00-27 00-30 00-30 00-33 00-37 28-60 31-67 31-70 34-67 38-63 61-99 68-99 71-99 68-99 64-99
+00-40 41-67 68-99
+Thunderstorms 00-01 00-01 00-01 Showers 02-20 02-10 02-03 Fog 21-24 11-14
+None 25-99 15-99 04-99
+00-01 00-01 02-03 02-03
+00-01
+Precipitation: April
+May June July Aug. Sept. Oct.
+Clear
+Partly Cloudy Cloudy
+Thunderstorms 00-09 00-12 00-12 00-09 Showers 10-40 13-45 13-45 10-24 Snow 41-45
+Fog 46-49 46-49 46-49 25-29 None 50-99 50-99 50-99 30-99
+04-99 09-99
+22-99
+Oct.
+Oct.
+00-31 32-99
+00-34 00-39 00-49 00-64 35-69 40-79 50-74 65-84 70-99 80-99 75-99 85-99
+00-49 00-34 50-74 35-69 75-99 70-99
+00-34 35-69 70-99
+Precipitation: April
+May June July Aug. Sept.
+Oct.
+DEEP SOUTH (ATL)
+Precipitation: April May June July
+Aug. Sept.
+Oct.
+Hot Warm Cool
+00 00-03 00-20 01-72 04-85 21-99 73-99 86-99
+00-37 38-99
+00-27 00-10 28-99 11-97
+SOUTHERN CALIFORNIA (LAA, LAN, SD)
+96-99
+(b) If number is 02-99, game is played as scheduled. Note: fatigue modifiers are applied only at the start of the game. PRECIPITATION (only when Cloudy):
+Thunderstorms - Roll two dice...
+00-40 41-74 75-99
+00-36 00-47 00-70 37-77 48-80 71-96 78-99 81-99 97-99
+00-73 00-60 74-96 61-90 97-99 91-99
+00-53 54-83 84-99
+Precipitation: April May June July Aug. Sept.
+Oct.
+Fog - Roll two dice...
+(a) If number rolled is 00-01, game is fogged out.
+(b) If number rolled is 02-99, game is played in foggy conditions.
+May June July
+Aug. Sept.
+Oct.
+00-07 08-27
+Snow - If weather is Cool/Cold, Roll two dice...
+(a) If number rolled is 00-49, game is snowed out.
+(b) If number rolled is 50-99, game is played in snowy conditions (wet field).
+If weather is not Cool/Cold, resolve as Showers.
+00-16 00-10 17-28 11-30
+00-03 04-30
+41-44 38-41 31-34 31-34 31-34 45-99 42-99 35-99 35-99 35-99
+NORTHERN CALIFORNIA (OAK, SF)
+29-34 31-35 35-99 36-99
+31-36 37-99
+Oct.
+00-27 28-89 90-99
+Oct.
+00-24 25-79 80-99
+Day Temp: April
+May June July Aug. Sept.
+Oct.
+Hot Warm Cool Cold
+00-09 10-79 80-99
+April
+00-71 72-99
+00-01 00-03 00-02 00
+00-44 02-61 04-71 03-69 01-63 00-23 45-94 62-99 72-99 70-99 64-99 24-84 95-99 84-99
+00-09 00-09 10-24 10-40
+00-09 10-40 41-45 46-49 50-99
+HEARTLAND (KC, STL)
+Day Temp: April May June July Aug. Sept. Hot 00 00-03 00-23 00-50 00-37 00-13 Warm 01-61 04-79 24-99 51-99 38-99 14-99 Cool 62-89 80-99
+Cold 90-99
+00-71 98-99 72-99
+25-29 41-45 30-99 46-99
+Oct.
+Night Temp:
+April May June
+July
+Aug. Sept.
+Hot
+Warm
+Day Temp:
+Hot 00-03 00-14 Warm 4-85 15-89 Cool 86-99 90-99
+DayTemp: April May June July Aug. Sept. Oct.
+Clear
+Partly Cloudy Cloudy
+Thunderstorms 00-10 Showers 11-40 Snow 41-56 Fog 57-66 None 67-99
+Thunderstorms 00-07 Showers 08-37 Fog 38-44 None 45-99
+00-13 00-20 00-20 00-17 00-07 14-37 21-30 21-30 18-33 08-23 38-44 31-34 31-34 34-37 24-31 45-99 35-99 35-99 38-99 32-99
+00-03 04-23 24-34 35-99
+Day Temp:
+April May June
+July
+Aug. Sept.
+WEATHER EFFECTS CHART KEY TEMPERATURE:
+April May June July Aug. Sept.
+April May April May
+June July
+Aug. Sept.
+Oct.
+00-10 00-67 00-93 00-90 00-47 00-10 11-99 68-99 94-99 91-99 48-99 11-99
+EASTERN SEABOARD (BAL, NYA, NYN, PHI, WAS)
+Hot 00 00-03 Warm 00-51 01-58 04-66 Cool 52-99 59-99 67-99
+00 01-65 66-99
+00 00-03 01-66 04-72 67-99 73-99
+DayTemp:
+April May June July Aug. Sept. Oct.
+Clear
+Partly Cloudy Cloudy
+Thunderstorms 00-20 00-23 00-23 00-23 00-20 00-13 Showers 21-37 24-37 24-30 24-30 21-27 14-27 Snow 38-39
+Fog 40-43 38-41 31-34 31-34 28-31 28-32 None 44-99 42-99 35-99 35-99 32-99 33-99
+Thunderstorms Showers
+Fog
+None
+00-13 00-20 00-30 14-30 21-30 31-33 31-34 31-34 34-37 35-99 35-99 38-99
+00-33 34-40 41-48 49-99
+00-27 00-10 28-30 11-27 31-41 28-35 42-99 36-99
+00 01-65 66-99
+Hot Warm Cool Cold
+00 00-06 00-30 01-45 07-57 31-95 46-99 58-99
+00-12 13-63 64-99
+00-09 00-02 10-61 03-54 62-99 55-99
+(a) If number is 00-01, game is called because of cold.
+00-03 04-20 21-28 29-99
+DOMED (TB, TOR) No weather or wind effects. Temperature in domed parks is considered Cool. TOR roof closed (domed) when outside weather is hot, cold, or cloudy.
+ROOF (ARI, HOU, MIA, MIL, SEA) Roof closed when outside weather is hot, cold, or cloudy. Inside temperature Warm when outside Hot, and Cool when outside Cold. Wind unaffected by roof.
+July
+Aug. Sept.
+PACIFIC NORTHWEST (SEA)
+Clear
+Partly Cloudy Cloudy
+Thunderstorms 00-01 Showers 02-39 Fog 40-45 None 46-99
+Hot - Reduce starter's fatigue rating by 4 BF (or 2 innings). Cool - Increase starter's fatigue rating by 2 BF (or 1 inning). Cold - Roll two dice...
+
+Internet Baseball League
+000-199 Randomly select a pitcher who has pitched in this game (including current pitchers for both teams and excluding those who have already been injured) and check for an arm injury after he is removed from the game.
+Page 10
+http://www.ibl.org
+WILD PLAY CHART - BASES EMPTY
+596-597 Ball hit into the rc gap, CF and RF collide attempting to make play. Resolve as OFR "in the gap" using the best range rating of CF/RF. Check both players for injury. "To the wall" result with both players injured becomes inside the park HR.
+829-838 Bruise forms from HB earlier in game. Last player on either team to be HB must be removed from game. If no such player, return to normal play sequence.
+839-843 Sizzling liner hits fielder in forearm, use IFR chart to determine fielder and roll for
+200-214 Catcher's interference is called and the batter is awarded 1st. Score as E2, but do not count as an at bat for batter.
+598-609 Long drive causes RF to crash into outfield wall, resolve play as OFR "over the head" rf and check for injury. If RF is injured on "off the wall" result, give baserunner +1 BR bonus on STRETCH attempt (use arm rating of CF).
+injury. If pitcher, batter is safe on infield hit (1b inf). Otherwise, liner caroms toward
+215-219 Batter walks (BB). Catcher is tossed out for arguing balls and strikes.
+220-224 Borderline pitch is called a ball. Batter walks (BB). Pitcher tells umpire what he
+610-624 Randomly select one player with the special GEEZER symbol. If the player is currently in the game he informs the manager he cannot continue and must be removed (no injury roll). If the player has not yet played, he informs the manager he is unavailable for the rest of the game (no injury roll).
+adjacent fielder (3B paired with SS, 2B paired with 1B), resolve as IFR "line drive". 844-849 Pitcher who started away team's last game reports to the ballpark with a stiff
+thought of his last call. Umpire tells pitcher to leave the game.
+225-235 (a) If catcher has “Fr” or “Pr” passed ball rating ... third strike eludes him and rolls
+shoulder. Check for injury.
+850-855 RG ss. If batter has special HOT symbol, he fails to run out grounder and is
+all the way to the backstop. Batter safe at 1st. Official scorer rules it a SO & PB.
+625-629 Batter pulls a rib cage muscle striking out (SO). Check for injury.
+630-639 Batter hits a slow grounder to 1B, who flips to the pitcher covering. Batter and
+removed from the game by his manager.
+856-862 If a player on the fielding team struck out for the final out of the previous half-inning,
+(b) All other catchers ... he hangs onto foul tip. (SO).
+236-240 (a) With 0 or 1 out, batter strikes out on ball in the dirt and takes off for first base.
+he starts chirping at the umpire about a borderline pitch called a ball and is ejected
+Resolve as CLOSE PLAY, adjusting for catcher's arm (scored SO & WP when safe). (b) With 2 outs, batter strikes out swinging on a ball caught just off the ground. As the fielding team heads for the dugout, the batter sprints down to first. Umpire rules the catcher trapped the ball, no catch, batter is safe at first (score as E2).
+pitcher collide, resolve as COLLISION on COACH'S CHOICE CHART. Check
+from the game.
+863-872 (a) If Temp "Hot" pitcher is forced from the game after having difficulty breathing
+241-244 Player on batting team gets kidney stone. Roll one die to determine player: 0=DH, 1=P, etc. Roll one die to determine days missed (excluding current game), while passing stone.
+in the field and the intial call on any REPLAY during the game goes against them. 643-649 (a) If a day game is being played... a swarm of bees circles the batters box,
+873-882 Home team player strains adbominal muscles tomorrow while doing pre-game batting drills. Roll one die to determine player: 0=DH, 1=P, etc. Roll for injury, adding one day to result (maximum 15 days). Player may still pinch run (ONLY!) during injury.
+245-252 Batter hit by pitch (HB). If this batter hit a HR earlier in the game, or if a batter on the fielding team had been hit by a pitch earlier in the game, the batter charges the mound and a melee ensues. After the brawl, the umpires eject the batter, pitcher, and all players with special HOT symbol. Check batter and pitcher for injury.
+distracting the batter, who loses his concentration and strikes out (SO).
+(b) If a night game is being played... a swarm of midges descends upon the infield. The pitcher loses his concentration and walks the batter (BB).
+(c) If in a dome or roof closed, glare gets in the batter's eyes and he strikes out (SO).
+883-885 Home team on the field— heckler gets into it with player who made the final out of the last half-inning. Player has to be restrained by teammates, and manager removes him from the game. Visiting team on the field— fan throws object on the field, striking last outfielder to bat in the game. Manager removes outfielder for precautionary reasons.
+253-256 Pitcher is ejected for doctoring the ball! Pitcher suspended for 5 games.
+257-260 Batter fouls pitch off and his bat explodes, revealing cork! Batter is declared out,
+650-652 (a) If the game is being played in an open stadium... line drive to cf hits bird in flight and falls in for a 1b.
+ejected, and suspended for 5 games.
+261-263 Pitcher charged with obstruction on dribbler down the line. Score as an error on the
+hanging from roof and falls in for a 2b.
+653-657 (a) If the game is being played in twilight conditions (open stadium, innings 8-11 of
+886-893 Batter hits foul pop-up behind the plate, resolve using WP&PB bases empty chart. While running down the ball, the catcher runs into railing. Check for injury. Catcher may play through injury but must add +2 to arm rating for the duration (maximum 15 days).
+pitcher. Batter is awarded first base.
+264-280 Slow grounder to short (SG ss): (a) If temperature is “Cool” or “Cold”... batter pulls
+day game or 1-2 of night game), CF loses liner and is hit in the face! Scorer rules it a 2b. Check for injury.
+(b) All other conditions (including dome/roof closed) ... CF makes the catch (HF cf).
+a muscle trying to beat the throw. Check for injury (maximum 15 days). Batter may play during injury, but can only DH or pinch hit, and his baserunning, stealing, and jump are reduced by 2 for the duration of the injury.
+(b) If temperature is “Warm” or “Hot”... batter OK.
+658-662 (a) If game is being played on field in poor or fair condition... routine grounder takes a bad hop and hits infielder in the face for infield hit (1b inf). Roll one die... 0-1 1B, 2-4 2B, 5-7 SS, 8-9 3B. Check fielder for injury.
+(b) All other surfaces... RG (roll for fielder as in "a").
+894-898 After the game, player on visiting team hurts his knee when stepping on the team bus. Roll one die to determine player: 0=DH, 1=P, etc. Check for injury.
+281-291 Batter hits slow chopper to pitcher and is thrown out at first. Batter steps awkwardly on bag. Check for injury.
+663-677 (a) If game is being played on field in poor condition... bad hop single (1b glf). (b) All other surfaces ... RG ss
+899-903 RG ss. Batter's bat explodes and shard hits pitcher on the arm! Check for injury to pitcher. If pitcher is injured, batter becomes ill and must be removed from game (no injury roll).
+292-299 SS twists his back making a play deep in the hole (HG ss). Check for injury. 300-307 2B twists his back making a play deep up the middle (HG 2b). Check for injury. 308-315 3B twists his back making a diving stop down the line (HG 3b). Check for injury. 316-335 Pitcher's energy sapped. An unfatigued pitcher becomes fatigued. A fatigued pitcher
+678-679 Routine grounder back through the box is stabbed by pitcher, but gets caught in the webbing of his glove. Pitcher takes off glove and throws the glove with the ball to 1st for the out (RG).
+904-908 Home player suffering from the flu has to leave game. Roll one die: 0=DH, 1=P, etc. Player must sit out the following day as well (no injury roll).
+must now use the emergency pitcher's card.
+336-346 The batter is drilled by a pitch (HB) and takes exception, causing a ruckus. If a
+914-917 (a) Day game in an open stadium— a freak weather front causes a rain delay for several hours. When play resumes both teams must replace their pitchers (no injury roll). Re-roll temperature and wind on WEATHER EFFECTS CHART.
+(b) Night game in an open stadium— a transformer explodes on a bank of lights. Game is suspended and must be completed before the start of the next game.
+batter on the fielding team is hit later this game the umpires assume it was retaliation,
+683-704 If infield is back, batter surprises everyone and tries to bunt for a hit. Resolve play on BUNTING CHART, adding 20 to in play rating and 3 to bunter's running rating.
+ejecting the pitcher. All subsequent HB result in the pitcher being ejected.
+347-356 Infielder pulls a muscle on tough defensive play. Resolve using IFR CHART. Check
+705-708 Grounder up the middle strikes the ump and bounces away from the infielders. Batter is credited with a 1b, and may attempt to STRETCH to a 2b by going to the COACH'S CHOICE CHART.
+(c) Game played in a park with a retractable roof— a freak weather front rolls in
+but the roof malfunctions. Re-roll weather using WEATHER EFFECTS CHART, assuming cloudy weather and rolling for precipitation. If rain, the game is postponed. (d) Game played in a domed stadium— prior to the next home game, material from the roof structure falls onto the field, causing the game to be postponed.
+fielder for injury.
+357-367 Blooper hit into shallow lf, SS and LF collide attempting to make play. Resolve as
+OFR "blooper" using the best range rating of SS/LF. Check both players for injury. 368-378 Blooper hit into shallow rf, 2B and RF collide attempting to make play. Resolve as OFR "blooper" using the best range rating of 2B/RF. Check both players for injury.
+709-748 Weather front passes through. Go to the WEATHER EFFECTS CHART and re-roll all weather effects. If the game is delayed, pitcher on the mound stiffens up and must be removed (no injury roll).
+918-951 If a player on the fielding team was hit by a pitch previously in the game, the current pitcher takes it upon himself to retaliate, throwing a high hard one that just misses the batter's head. If either the batter or the pitcher have the special HOT symbol
+a brawl ensues, resulting in ejections and 5 game suspensions for the batter and pitcher. If neither are HOT the umpires warn both teams and any further HB result in the immediate ejection of the pitcher.
+379-383 Batter makes head-first slide into first base attempting to beat out slow grounder to shortstop (score as SG ss). Check for injury.
+749-763 (a) If temperature is “Warm”... 1b lcf. (b) If temperature is “Cold”... RG p.
+384-394 Foul ball strikes the on-deck hitter. Check for injury.
+395-450 Pitcher develops arm trouble. Check for injury.
+451-475 Foul tip ricochets off catcher. Check for injury.
+476-485 3B falls into dugout attempting spectacular catch of foul ball. Roll one die... even
+(c) All other temperatures... return to normal play sequence.
+764-793 If the game is being played in twilight conditions (open stadium, innings 8-9 of day game or 1-2 of night game) and pitcher SO range is >= 100 numbers... batter strikes
+roll he hangs on for the out, odd he drops the ball. Check for injury.
+486-495 1B falls into dugout attempting spectacular catch of foul ball. Roll one die... even
+out (SO). All other situations (including dome/roof closed) pitch is fouled off, return
+952-966 Ump blows the call on a 3-2 pitch, roll one die... on even roll batter strikes out (SO), on odd roll batter walks (BB). If the call goes against a player with special HOT symbol, he gets into an argument and makes contact with the umpire, resulting in an ejection and 2 game suspension.
+roll he hangs on for the out, odd he drops the ball. Check for injury.
+496-515 Pitcher hit by sharp grounder, slowing down the ball. Resolve as slow roller IFR to
+to normal play.
+794-796 Batter hits a dribbler in front of the plate and is hit in the shoulder by the catcher's
+SS (RHB) or 2B (LHB), subtracting 2 from range. Check pitcher for injury.
+516 Pitcher hit by stinging liner, ball caroms into dugout and batter is awarded second
+inside the baseline, even roll the batter is safe at 2nd on the error (E2).
+797-799 Batter hits a scorching line drive just in front of the RF. If batter has a baserunning
+967-969 After the game, a player on the winning team accidentally injures himself while celebrating the victory. Randomly select one player from the winning team for an injury roll.
+base (score as 2b). Check pitcher for injury.
+517-546 Batter fouls ball off foot. Check for injury.
+547-566 Long drive causes CF to crash into outfield wall, resolve play as OFR "over
+rating of 1 or less and the outfielder has a throwing arm of -2, -3, or -4, batter may be thrown out by RF. Roll one die. Batter is out at first if -2 (0-3), -3 (0-5), -4 (0-7). If situation above does not apply, batter hits a 1b lrf.
+970-984 (a) If the batter has special CORK symbol his bat is challenged and after the game is found to be illegally modified. Batter is suspended 8 games.
+(b) If the pitcher has special SPIT symbol he is caught with a foreign substance on his arm and is ejected. Pitcher is suspended 8 games. If both batter and pitcher have symbols, pick one randomly.
+the head" cf and check for injury. If CF is injured on "off the wall" result, give baserunner +1 BR bonus on STRETCH attempt (use arm rating of LF with RHB and RF for LHB).
+800-804 Catcher fails in an attempt to catch a high pop foul near the opposing teams's dugout. Opposition players do not help and he crashes into the dugout. Check for injury to the catcher, along with all players in the dugout with the special GEEZER symbol.
+567-581 Pitcher develops blister and must be removed from game (no injury roll). 582-593 Long drive causes LF to crash into outfield wall, resolve play as OFR "over
+805-813 RG ss. Batter tries to beat out the hit and spikes the 1B, tripping and falling in the process. Check for injury to both players.
+(c) Otherwise, randomly select one player with the special LAW symbol. Player is
+the head" lf and check for injury. If LF is injured on "off the wall" result, give
+814-828 (a) If the game is being played in “Fog”... CF loses high fly and cannot find the ball! Batter trots home with an inside-the-park HR!
+(b) If the game is being played in "Snow" or on a wet field... CF slips and falls down chasing after ball lined into the gap in right center. Batter safe at third with a 3b!
+unavailable to play the next day due to legal proceedings.
+985-999 Randomly select one player with a special symbol of SUSP or TEST who has not
+baserunner +1 BR bonus on STRETCH attempt (use arm rating of CF).
+594-595 Ball hit into the lc gap, LF and CF collide attempting to make play. Resolve as OFR "in the gap" using the best range rating of LF/CF. Check both players for injury. "To
+(c) All other conditions... HF cf. Page 10
+already served their suspension this season. Player with SUSP symbol violates league conduct rules and is suspended. Player with TEST symbol fails random drug test and is suspended. Refer to league rules regarding length of suspension. Suspensions take effect the following game.
+the wall" result with both players injured becomes inside the park HR. 2020 IBL Game
+revision 2020b
+both players for injury.
+640-642 Pitcher and catcher get crossed up and the home plate umpire is hit by the ball,
+due to heat stroke. If pitcher has special GEEZER symbol he is also unavailable for next two days.
+(b) Else... reduce pitcher's fatigue rating by 2 BF (or 1 inning and 1 baserunner under traditional rules).
+forcing him to leave the game. The remaining umps hold a grudge against the team
+(b) If the game is being played in a dome or roof closed... high fly hits object
+680-682 (a) If catcher has a “Pr” passed ball rating ... batter strikes out (SO) on curveball, but advances to 2nd when ball gets by catcher. Scorer rules it SO & PB.
+(b) All other catchers... batter strikes out (SO).
+909-913 HF to outfielder. Roll one die: 0-2=LF, 3-6=CF, 7-9=RF. Player drops ball and batter safe at 1st on error. Fielder taken out of game with blurred vision (no injury roll).
+throw to first. Roll one die... on odd roll the umpire calls the batter out for running
+
+Internet Baseball League
+000-199 Randomly select a pitcher who has pitched in this game (including current pitchers for both teams and excluding those who have already been injured) and check for an arm injury after he is removed from the game.
+Page 11
+http://www.ibl.org
+WILD PLAY CHART - MEN ON BASE
+458-469 Outfielder attempts diving catch of soft liner, roll one die for fielder: 0-2=LF, 3-6=CF, 7-9=RF. Resolve as OFR "looping liner". Check outfielder for injury. If fielder is injured he is unable to double off any runners on a catch and runners receive +2 bonus to baserunning rating while attempting to advance (ignore outfielder arm rating as well).
+844-848 Liner back to pitcher (L)... if less than 2 outs, the pitcher tries to double off lead baserunner. Roll one die... if > pitcher's E rating his throw deflects off the runner’s helmet for an error, runners advance two bases. Otherwise, throw on target but late.
+200-214 Catcher's interference is called and the batter is awarded 1st. Score as E2 but do not count as an at bat for the batter. Runners advance if forced or stealing on play (h&r).
+470-525 Pitcher develops arm trouble. Check for injury.
+526-554 Foul tip ricochets off catcher. Check for injury.
+555-566 3B falls into dugout attempting spectacular catch of foul ball. Roll one die... even
+849-863 Batter hits a hard grounder, resolve as IFR "in the hole" rolling 1 die for fielder... 0-1=3B, 2-4=SS, 5-7=2B, 8-9=1B. On "thru for a hit" result, lead baserunner must attempt to advance 2 bases by going to the COACH'S CHOICE CHART. Otherwise, lead baserunner stumbles while successfully advancing to the next base. In either case, check baserunner for injury.
+215-219 Borderline pitch is called a ball. Batter walks (BB). Pitcher tells umpire what he thinks. Umpire tells pitcher to leave the game.
+220-230 (a) If catcher has “Fr” or “Pr” passed ball rating ... third strike eludes him and rolls all the way to the backstop. Batter safe at 1st if 2 outs or no runner on 1st base, otherwise batter is out. Runners advance 1 base. Official scorer rules it a SO & PB. (b) All other catchers ... he hangs onto foul tip. (SO).
+roll he hangs on for the out, odd he drops the ball. If fielder holds on, runners
+864-868 If runner on 2nd and 3rd base open, catcher accidentally signals pitcher for a no-look pickoff play but no one covers 2nd. Ball sails into cf. Runners advance one base, runner on 2nd can try for home using COACH'S CHOICE CHART.
+231-235 Batter strikes out swinging on pitch that sails over catcher's head. Batter safe at 1st if 2 outs or no runner on 1st base, otherwise batter is out. Runners advance 1 base. Official scorer rules it a WP & SO.
+roll he hangs on for the out, odd he drops the ball. If fielder holds on, runners
+869-883 Lead runner (1st or 2nd only) notices the pitcher isn't paying close enough attention to him. Add 2 to runner's stealing rating and if his ASR is >= 9 (including all other applicable adjustments) the runner automatically gets a great jump and attempts a steal on his own.
+236-255 Slow grounder to SS (SG ss): (a) If temperature is “Cool” or “Cold”... batter pulls a muscle trying to beat the throw. Check for injury (maximum 15 days). Batter may play during injury, but can only DH or pinch hit, and his baserunning, stealing, and jump are reduced by 2 for the duration of the injury.
+advance one base. Check for injury.
+579-583 Pitcher hit by a stinging liner. Check for injury (1b inf, runners advance one base). 584-611 Batter fouls ball off foot. Check for injury.
+612-623 Long drive causes CF to crash into outfield wall, resolve play as OFR "over
+884-893 Batter slices towering pop-up into foul territory. Resolve as OFR blooper, using best range rating of 3B/SS/LF for LHB or 1B/2B/RF for RHB. If park has VSmall foul territory reduce range by 2 grades, if VLarge increase range by 2 grades. If caught, runner on 3rd may tag up and attempt to score by going to CHOICE CHART.
+(b) If temperature is “Warm” or “Hot”... batter OK.
+256-260 Batter walks (BB). Catcher is tossed for arguing balls and strikes.
+261-265 If any player on the bench of the batting team has a HOT symbol, he is ejected from
+the head" cf and check for injury. If CF is injured on "off the wall" result, give baserunner +1 BR bonus on STRETCH attempt (use arm rating of LF with RHB and RF for LHB).
+the game for yelling from the dugout about ball/strike calls.
+266-269 Wild pitch. Runners advance one base. If runner on 3rd, batter frantically waves
+624-639 Batter strikes out (SO) and takes exception to the pitcher showboating. After the half-inning the batter and pitcher exchange words and have to be restrained. Both teams are warned, and if a batter is hit in the remainder of the game the pitcher who hit him is ejected.
+894-903 (a) If runner only on 1st and < 2 outs... batter strikes out on hit-and-run attempt. The runner tries to return to first. Roll one die, if the roll is <= the runner's ASR he makes it back to first safely, otherwise the runner is caught in a RUNDOWN.
+(b) Else... pitcher throws to lead base catching runner daydreaming. The runner tries to advance, starting a RUNDOWN.
+runner home, hurting his shoulder. Check batter for injury.
+270-279 Batter is hit by pitch (HB) and removed from the game for precautionary X-rays.
+640-654 Pitcher develops blister and must be removed from game (no injury roll). 655-669 Long drive causes LF to crash into outfield wall, resolve play as OFR "over
+904-905 Wild pitch bounces in dirt and lodges underneath catcher's chest protector. Ump awards all baserunners one base according to rule 5.09(g).
+X-rays are negative and batter is OK to play the next game (no injury roll).
+280-285 Fly ball to the warning track (WT) in rf. If less than two outs the lead runner tags up
+the head" lf and check for injury. If LF is injured on "off the wall" result, give
+and advances. The fielding team appeals that the runner left early, roll one die... if
+baserunner +1 BR bonus on STRETCH attempt (use arm rating of CF).
+670-671 Ball hit into the lc gap, LF and CF collide attempting to make play. Resolve as OFR "in the gap" using the best range rating of LF/CF. Check both players for injury. "To
+906-907 Pitcher doesn't like the baseball, but forgets to call time before tossing the old ball toward the ump who lets it roll to the backstop. Runners advance one base. Score as an error (E1).
+result is > runner's BR rating he is called out!
+286-309 If lead runner (1st or 2nd only) has unadjusted Jump > 0 and pitcher has Pickoff
+the wall" result with both players injured becomes inside the park HR.
+672-673 Ball hit into the rc gap, CF and RF collide attempting to make play. Resolve as OFR "in the gap" using the best range rating of CF/RF. Check both players for injury. "To
+908-909 While on the rubber, the ball falls out of the pitcher's glove and hits the ground. Umpire signals a balk, all runners advance one base.
+rating >= 3, pitcher tries to pick off the runner with a borderline move. Resolve
+as PICKOFF-HOLDS and roll one die to determine umpire's call... even roll ump calls it legal, odd roll ump calls a balk. If the runner is picked off he is ejected for arguing. If the pitcher is called for a balk he is ejected for arguing. If ejected player has special HOT symbol he makes contact with the ump and is suspended for 2 games.
+the wall" result with both players injured becomes inside the park HR. 674-688 Long drive causes RF to crash into outfield wall, resolve play as OFR "over
+910-911 Pitcher drops return throw from catcher. Ball rolls away, runners advance one base. Score as error (E1).
+310-322 Infielder charges a slow grounder but bobbles the ball, roll one die for fielder... 0-1=3B, 2-4=SS, 5-7=2B, 8-9=1B. Resolve as CLOSE PLAY at first (if fielder is in then play is at home). Other runners advance 1 base and have CHOICE to advance an additional base with a -2 adjustment to their baserunning rating. If no out is recorded on the play score as an error.
+baserunner +1 BR bonus on STRETCH attempt (use arm rating of CF). 689-703 Randomly select one player with the special GEEZER symbol. If the player is
+323-342 Grounder to SS. With fielder playing back in a double-play situation, SS flips to 2B who gets the force out but is taken out by hard slide. Resolve as RG+, check 2B and runner for injury. All other situations, including fielder playing in, resolve as RG ss.
+704-709 Batter pulls a rib cage muscle striking out (SO). Check for injury.
+710-749 Weather front passes through. Go to the WEATHER EFFECTS CHART and re-roll
+343-362 Grounder to 2B With fielder playing back in a double-play situation, 2B flips to SS who gets the force out but is taken out by hard slide. Resolve as RG+, check SS and runner for injury. All other situations, including fielder playing in, resolve as RG 2b.
+be removed from the game.
+750-759 Batter hits a slow grounder to 1B. If 1B playing in and runner on 3rd he throws
+937-939 Popup to infielder nearest the lead runner. If less than two outs, the lead runner thinks it is the third out and is tagged out after walking off the bag.
+363-374 Infielder pulls a muscle on tough defensive play. Resolve using IFR CHART. Check fielder for injury.
+home, runner and catcher collide. Otherwise, 1B flips to the pitcher covering first, batter and pitcher collide. Resolve play as COLLISION on COACH'S CHOICE CHART. Check both players for injury. Baserunners advance one base.
+940-942 HF to outfielder. Roll one die: 0-2=LF, 3-6=CF, 7-9=RF. With less than two outs, player starts to jog off the field after making catch... all runners advance one base (score as error).
+375-398 An unfatigued pitcher gets his second wind: increase fatigue rating by 4 BF (or subtract 2 baserunners under traditional rules) and subtract 2 earned runs.
+760-768 Catcher tries to pickoff a baserunner (with multiple runners, choose in this order: 3rd base, 1st base, 2nd base). Roll one die... if roll > catcher E rating he throws it into the outfield (E2), runners advance 2 bases. Otherwise, throw is on target but late.
+943-944 With runner on first base and second base open, fielding team attempts the hidden ball trick after a pickoff attempt. Resolve as PICKOFF-HOLDS, using a pitcher's pickoff rating of 2 (ignore actual rating).
+399-414 If the catcher has a Pickoff rating > 0, he catches a baserunner napping and fires a throw behind the runner (with multiple runners, choose in this order: 3rd base, 1st base, 2nd base). Resolve as PICKOFF-HOLDS (+3 to rating on H&R, 1b ONLY).
+769-773 If game is being played on field in poor condition... routine grounder takes a bad hop and hits infielder in the face for a infield hit (1b inf). Roll one die... 0-1=1B, 2-4=2B, 5-7=SS, 8-9=3B. Check for injury to fielder. All other surfaces... RG ss.
+945-954 After game, visiting player leaves team for a child's birth. Roll one die: 0=DH, 1=P, etc. Player misses next 2 days.
+415-434 Pitcher hit by sharp grounder, slowing down the ball. Resolve as slow roller IFR to SS (RHB) or 2B (LHB), subtracting 2 from range. Pitcher unhurt, but is shaken. Reduce fatigue by 8 BF for starters or 4 BF for relievers (2 innnings for starters, 2 baserunners for relievers under traditional rules).
+774-788 Lead runner (1st or 2nd only) with unadjusted Jump rating > 0 misses sign and must attempt to steal (roll for jump, considering all “holds” results to be “bad jump”).
+955-959 After game, home player leaves team for a parent's funeral. Roll one die: 0=DH, 1=P, etc. Player misses next 2 days
+435-436 The 2B makes a diving stab of a line drive for an out. With a runner on 2nd, he
+steps on the bag for a DP! If there is also a man on 1st, he tags the runner for an unassisted triple play! A runner on 1st with a baserunning rating > 3 gets back safely.
+793-822 If the game is being played in twilight conditions (open stadium, innings 8-9 of day game or 1-2 of night game) and pitcher SO range is >= 100 numbers... batter strikes out (SO). All other situations (including dome/roof closed) pitch is fouled off, return to normal play.
+965-966 If the previous batter reached base on a hit, the defensive team tries the "hidden ball" trick against him. Roll one die... 0 = runner is caught napping and is out, 1-8 = no play, 9 = pitcher mistakenly straddles the rubber without the ball, resulting in a balk.
+437-442 Batter hits long drive, resolve as OFR "over the head", rolling 1 die to determine fielder... 0-2=LF, 3-6=CF, 7-9=RF. On "off the wall" result with less than 2 outs, baserunners get terrible read and are forced to attempt to advance 2-bases using COACH'S CHOICE CHART.
+967-969 After the game, a player on the winning team accidentally injures himself while celebrating the victory. Randomly select one player from the winning team for an injury roll.
+443 Batter walks (BB). If man is on first with second base open, he is running on the pitch. The catcher throws and runner overslides the bag! Resolve as a SB attempt (use STEALING CHART).
+823-826 (a) If there is a runner on 1st... sinking liner to left of the SS. Ball skips off SS glove, but he recovers quickly, steps on the bag for the force at 2nd, but relay throw to 1st hits runner coming from 1st in leg and skids into rf. Batter safe at 2nd on error. Runners advance 2 bases.
+970-984 (a) If the batter has special CORK symbol his bat is challenged and after the game is found to be illegally modified. Batter is suspended 8 games.
+(b) If the pitcher has special SPIT symbol he is caught with a foreign substance
+on his arm and is ejected. Pitcher is suspended 8 games. If both batter and pitcher have symbols, pick one randomly. (c) Otherwise, randomly select one player with the special LAW symbol. Player is unavailable to play the next day due to legal proceedings.
+444-457 Infielder attempts diving catch of blooper into cf. Roll one die to determine fielder... even SS, odd 2B. Resolve as OFR "blooper". Check fielder for injury. Runner on 3b may attempt to tag up using COACH'S CHOICE CHART. If fielder is injured runners receive +2 bonus to baserunning rating while attempting to advance (use CF arm rating).
+(b) All other situations... RG ss.
+827-841 (a) If temperature is “Warm”... 1b lcf. Runners advance 2 bases.
+2020 IBL Game
+advance become confused and start to advance as well. Lead runner is tagged out. Page 11
+revision 2020b
+advance one base. Check for injury.
+567-578 1B falls into dugout attempting spectacular catch of foul ball. Roll one die... even
+the head" rf and check for injury. If RF is injured on "off the wall" result, give
+912-926 Ump blows the call on a 3-2 pitch, roll one die... on even roll batter strikes out (SO), on odd roll batter walks (BB). If the call goes against a player with special HOT symbol, he gets into an argument and makes contact with the umpire, resulting in an ejection and 2 game suspension.
+currently in the game he informs the manager he cannot continue and must be removed. If the player has not yet played, he informs the manager he is unavailable for the rest of the game.
+927-936 (a) If less than two out and batter has Ex or Vg bunt rating, batter picks up the wrong sign from the third base coach and mistakenly tries to lay down a sacrifice bunt. Use BUNTING CHART to resolve play, bunt is automatically "in-play".
+(b) Else... batter hits squibber off the end of the bat. Resolve as bunting for a hit (automatically "in-play"). In either case, after making the play the fielder trips and falls awkwardly. Check for injury.
+all weather effects. If the game is delayed, pitcher on the mound stiffens up and must
+789-792 (a) If there is a runner on 1st or 2nd... grounder strikes the trailing runner in the heel. Runner out. Batter is credited with a single (1b inf). Runners advance one base if forced.
+(b) Otherwise... 1b grf. Runners advance two bases.
+960-964 Visiting player suffering from food poisoning has to leave game. Roll one die: 0=dh, 1=P, etc. Player must sit out the following day as well (no injury roll).
+(b) If temperature is “Cold”... RG p.
+985-999 Randomly select one player with a special symbol of SUSP or TEST who has not already served their suspension this season. Player with SUSP symbol violates league conduct rules and is suspended. Player with TEST symbol fails random drug test and is suspended. Refer to league rules regarding length of suspension. Suspensions take effect the following game.
+(c) All other temperatures... return to normal play sequence.
+842-843 If there is a runner at first base... Batter takes ball three but mistakenly thought it was ball four and starts trotting to first base. Any runners who would be forced to
+
